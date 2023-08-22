@@ -17,7 +17,7 @@ setup(
     author='abrihter',
     author_email='',
     description='Python wrapper for the RatingFish API',
-    keywords=['BEEHIIV', 'API', 'WRAPPER'],
+    keywords=['RATINGFISH', 'API', 'WRAPPER'],
     download_url='https://github.com/abrihter/ratingfish/archive/refs/tags/v0.2.tar.gz',  # noqa E501
     classifiers=[
         'Development Status :: 5 - Production/Stable',
